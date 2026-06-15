@@ -1,6 +1,0 @@
-anyio==4.13.0
-certifi==2026.4.22
-flet==0.85.3
-flet-desktop==0.85.3
-flet-web==0.85.3
-uvicorn==0.23.2
